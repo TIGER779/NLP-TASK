@@ -1,7 +1,7 @@
 # NLP-TASK
 
-###Loading the IMDb Dataset: Importing preprocessed movie reviews and their corresponding sentiment labels.
-LINK : "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
+### Loading the IMDb Dataset: Importing preprocessed movie reviews and their corresponding sentiment labels.
+##  LINK : "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
 
 Data Preprocessing: Padding sequences to ensure uniform input length for the RNN model.
 
